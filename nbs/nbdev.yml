@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_v1"
+  site-url: "https://harishmohanraj.github.io/test_v1"
+  description: "test_v1"
+  repo-branch: main
+  repo-url: "https://github.com/harishmohanraj/test_v1"
